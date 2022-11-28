@@ -53,7 +53,7 @@ const defaultMenu = {
 ┃☂︎ *Jam:* ${wib2} WIB
 ┗━━━━━━━⬣
 ┏━━━►〔 * INFO * 〕◄━━━━
-┃۞ *Bot Name:* %me
+┃۞ *Bot Name:* Felix MD
 ┃۞ *Mode:* Public
 ┃۞ *Platform:* Linux
 ┃۞ *Type:* Node.Js
